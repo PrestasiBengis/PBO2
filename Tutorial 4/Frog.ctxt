@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Frog()
+comment1.params=hp\ damage\ speed
+comment1.target=Frog(int,\ int,\ int)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ turnleft()
+comment4.params=
+comment4.target=int\ getdamage()
+comment5.params=
+comment5.target=void\ tambahscore()
+numComments=6

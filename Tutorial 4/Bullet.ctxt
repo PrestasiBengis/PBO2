@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=damage\ direction\ speed
+comment0.target=Bullet(int,\ int,\ int)
+comment1.params=
+comment1.target=int\ damage()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ cekmentok()
+numComments=4

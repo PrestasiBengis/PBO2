@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment1.params=damage\ direction\ speed
+comment1.target=peluru(int,\ int,\ int)
+comment2.params=
+comment2.target=int\ getdamage()
+comment3.params=
+comment3.target=void\ cekmentok()
+numComments=4
