@@ -16,6 +16,9 @@ public class Enemy extends Actor
     protected int hp;
     protected int speed;
     protected int score = 0;
+    private Spawn spawnUnit = null;
+    
+    
     public void act() 
     {
         // Add your action code here.

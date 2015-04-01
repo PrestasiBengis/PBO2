@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=i
+comment0.target=Spawn(int)
+comment1.params=
+comment1.target=int\ getLifeSpawn()
+comment2.params=
+comment2.target=void\ minLifeSpawn()
+numComments=3
